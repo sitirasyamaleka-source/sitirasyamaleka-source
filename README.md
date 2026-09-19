@@ -1,4 +1,4 @@
-# Hi, I'm Siti Rasya 👋
+# Hi, I'm Siti Rasya Maleka Prahartu 👋
 
 ### Sales Operations & Reporting Analyst
 
@@ -32,6 +32,7 @@ I work with operational data to create structured reports, monitor KPIs, analyze
 ## 📊 Portfolio Projects
 
 ### 01 — Retail Sales & Customer Performance Dashboard
+
 **Google Looker Studio | Excel | Google Sheets**
 
 Interactive dashboard for analyzing retail sales and customer data, including:
@@ -50,6 +51,7 @@ Interactive dashboard for analyzing retail sales and customer data, including:
 🔗 [View Interactive Dashboard](https://datastudio.google.com/reporting/50bcb2f1-9468-4227-9815-3df8a3450d9f)
 
 ### 02 — US Superstore Sales Performance Dashboard
+
 **Power BI | Power Query | DAX**
 
 Interactive Power BI dashboard for analyzing sales performance, including:
@@ -68,6 +70,7 @@ The dashboard includes interactive filters for Region, Year, Segment, and Ship M
 ## 💼 Professional Experience
 
 **Sales Operations & Reporting**
+
 - Data processing and reporting
 - Sales performance monitoring
 - KPI reporting
@@ -77,5 +80,5 @@ The dashboard includes interactive filters for Region, Year, Segment, and Ship M
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Siti Rasya](https://www.linkedin.com/in/siti-rasya-maleka-prahartu-5711b52b4/)
+- LinkedIn: [Siti Rasya Maleka Prahartu](https://www.linkedin.com/in/siti-rasya-maleka-prahartu-5711b52b4/)
 - Email: sitirasyaa@gmail.com
